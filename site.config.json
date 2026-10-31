@@ -1,0 +1,26 @@
+{
+  "title": "Maple Lane Goods Help Center",
+  "tagline": "Plain answers for our customers — quick to find, easy to read, no runaround.",
+  "contact": {
+    "email": "help@example.com",
+    "response_time": "A real person reads this inbox every business day and replies within one.",
+    "include": [
+      "The article you were reading (its title or web address)",
+      "What you were trying to do",
+      "What you already tried, so we don't make you repeat it",
+      "Any order numbers involved"
+    ],
+    "urgent": "If it is urgent, write URGENT at the start of the subject line.",
+    "note": "When the same question lands in this box several times, we turn it into a new article here — so asking helps everyone."
+  },
+  "footer_text": "Maple Lane Goods is a fictional sample shop used to demonstrate this template. Replace everything with your own.",
+  "footer_credit": "Built with the FAQ Help Center starter, a free MIT-licensed template by Asdale Dynamics, LLC.",
+  "category_descriptions": {
+    "getting-started": "New here? These plain-English guides show you how to find answers fast — and what to do when an article doesn't solve your problem.",
+    "orders-shipping": "Shipping times, tracking, and what happens when a package shows up late or damaged.",
+    "returns-refunds": "Our return policy in plain English, how to start a return, and when refunds land back on your card.",
+    "payments-accounts": "Cards, receipts, duplicate charges, and keeping your account details current.",
+    "seller-questions": "Selling through our marketplace: joining up, listing, and how fees work."
+  },
+  "canonical_url": ""
+}

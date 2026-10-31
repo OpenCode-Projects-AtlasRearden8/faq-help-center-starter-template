@@ -1,0 +1,16 @@
+{
+  "name": "faq-help-center-starter-template",
+  "version": "1.0.0",
+  "description": "Static-site starter for small-business self-serve help centers: plain Markdown questions by category, search-as-you-type, print-friendly articles, contact escapes on every entry.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node --test tests/",
+    "serve": "node serve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
