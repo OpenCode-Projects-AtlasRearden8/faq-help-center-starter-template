@@ -1,8 +1,14 @@
-# generated site output
-dist/
 
 # environment junk
-.DS_Store
-Thumbs.db
+# generated site output
 *.log
+*.pyc
+.DS_Store
+.env
+.env.*
+.venv/
+Thumbs.db
+__pycache__/
+dist/
+dist/*.tmp
 node_modules/
